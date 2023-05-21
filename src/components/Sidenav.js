@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 
 const SideNav = () => {
@@ -23,7 +24,7 @@ const SideNav = () => {
               <img
                 src="dist/img/profilepic.png"
                 className="img-circle elevation-2"
-                alt="User Image"
+                alt="User"
               />
             </div>
             <div className="info">

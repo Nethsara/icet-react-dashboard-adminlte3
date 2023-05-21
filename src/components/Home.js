@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 
 const Home = () => {
@@ -219,7 +220,7 @@ const Home = () => {
                         <img
                           className="direct-chat-img"
                           src="dist/img/user1-128x128.jpg"
-                          alt="message user image"
+                          alt="message user"
                         />
                         {/* /.direct-chat-img */}
                         <div className="direct-chat-text">
@@ -242,7 +243,7 @@ const Home = () => {
                         <img
                           className="direct-chat-img"
                           src="dist/img/user3-128x128.jpg"
-                          alt="message user image"
+                          alt="message user"
                         />
                         {/* /.direct-chat-img */}
                         <div className="direct-chat-text">
@@ -265,7 +266,7 @@ const Home = () => {
                         <img
                           className="direct-chat-img"
                           src="dist/img/user1-128x128.jpg"
-                          alt="message user image"
+                          alt="message user"
                         />
                         {/* /.direct-chat-img */}
                         <div className="direct-chat-text">
@@ -288,7 +289,7 @@ const Home = () => {
                         <img
                           className="direct-chat-img"
                           src="dist/img/user3-128x128.jpg"
-                          alt="message user image"
+                          alt="message user"
                         />
                         {/* /.direct-chat-img */}
                         <div className="direct-chat-text">I would love to.</div>
